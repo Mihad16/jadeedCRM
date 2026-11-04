@@ -1,0 +1,10 @@
+# Root gitignore — covers both frontend and backend
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
